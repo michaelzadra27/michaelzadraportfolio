@@ -40,7 +40,7 @@ function AboutMe() {
                 <Row className="aboutMeRows">
                     <Col className="columns col-5">
                         <div className="leftCol">
-                            <img src="https://i.ibb.co/W0QQRLT/croppedwithlylah.jpg" className="aboutMeImg" alt="sacramento"/>
+                            <img src="https://res.cloudinary.com/dcteqhlcf/image/upload/v1648093217/croppedwithlylah_aqcoa6.jpg" className="aboutMeImg" alt="sacramento"/>
                         </div>
                     </Col>
                     <Col className="columns col-7">

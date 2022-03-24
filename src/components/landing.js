@@ -32,7 +32,7 @@ function Landing() {
                     </Col>
                     <Col className="columns col-5">
                         <div className="imgContainer">
-                            <img src="https://media.istockphoto.com/photos/sacramento-at-night-picture-id91506347?b=1&k=20&m=91506347&s=170667a&w=0&h=SY7BIFMRhyO9IuANnMG1FHEzgCGu_JudqfGoSKfy04M=" className="landingImg" alt="sacramento"/>
+                            <img src="https://res.cloudinary.com/dcteqhlcf/image/upload/v1648093236/sacramento-at-night-picture-id91506347_bhcqy4.jpg" className="landingImg" alt="sacramento"/>
                         </div>
                         {/* <div className="selectorsContainer">
                         Testing

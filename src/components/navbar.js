@@ -19,7 +19,7 @@ function Navbar() {
         <div className="container-fluid px-0 navBar">
             <Container className="container-fluid px-0" >
                 <Row className="navRows">
-                    <Col className="nameCol col-6"><Link to="/" style={{ textDecoration: 'none', color: "black" }} >Michael Zadra</Link></Col>
+                    <Col className="nameCol col-6"><Link to="/michaelzadraportfolio" style={{ textDecoration: 'none', color: "black" }} >Michael Zadra</Link></Col>
                     <Col className="navCol col-3 test"><Link to="/about-me" style={{ textDecoration: 'none', color: "black" }} >About Me</Link></Col>
                     <Col className="navCol col-3"><Link to="/projects" style={{ textDecoration: 'none', color: "black" }} >Projects</Link></Col>
                     {/* <Col className="navCol col-2"><Link to="/contact" style={{ textDecoration: 'none', color: "black" }} >Contact</Link></Col> */}
