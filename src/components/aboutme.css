@@ -1,0 +1,68 @@
+.aboutMeImg{
+    height:22rem;
+    width:22rem;
+    max-width: 100%;
+    border-radius: 1rem;
+    /* position: fixed; */
+    opacity: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
+              0 2px 2px rgba(0,0,0,0.12), 
+              0 4px 4px rgba(0,0,0,0.12), 
+              0 8px 8px rgba(0,0,0,0.12),
+              0 16px 16px rgba(0,0,0,0.12);
+}
+
+.aboutMeRows{
+    height: 65vh;
+    overflow: auto;
+    /* background-color:rgb(211, 226, 231); */
+}
+.aside{
+    /* background-color: rgb(236, 236, 236); */
+    height:100%;
+}
+
+.subHead {
+    height:7.5vh;
+}
+
+/* .leftCol{
+    height:100%;
+    display:flex;
+    display:block;
+    align-items: center;
+    justify-content: left; 
+}
+
+.aside{
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: left; 
+} */
+
+.subHeading {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    padding-top: .75rem;
+    padding-bottom:1rem;
+    
+}
+
+.iconRow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-fluid{
+    color:#0A0908;
+}
+
+.footerBar{
+    height:6rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    
+}

@@ -1,0 +1,18 @@
+.container-fluid{
+    color:#0A0908;
+}
+
+.footerBar{
+    height:8vh;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 4vh;
+    
+    
+}
+
+.footerLinks {
+    color: #4a54f1
+}
+

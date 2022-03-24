@@ -1,0 +1,30 @@
+.navCol{
+    height:3rem;
+    display:flex;
+    justify-content: right;
+    align-items: center;
+    /* background-color:lightgray; */
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.nameCol{
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-size: larger;
+    display:flex;
+    align-items: center;
+    height:3rem;
+}
+
+.nameCol:hover{
+    color:#4a54f1 !important;
+}
+
+.navCol:hover{
+    color:#4a54f1;
+}
+
+.test{
+    color:#4a54f1;
+}

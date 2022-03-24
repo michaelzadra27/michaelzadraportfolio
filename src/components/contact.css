@@ -1,0 +1,20 @@
+.rightContactCol {
+    /* background-color: rgb(224, 224, 224); */
+    height: 24vh;
+}
+
+.contactPage {
+    height: 72vh;
+    
+}
+
+.colSpacer {
+    height: 1vh;
+}
+
+.leftContactCol{
+    /* background-color: rgb(216, 216, 216); */
+    border-right: 5px solid #4a54f1;
+    height: 24vh;
+
+}

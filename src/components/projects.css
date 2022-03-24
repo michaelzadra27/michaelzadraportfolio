@@ -1,0 +1,26 @@
+.carouselRow{
+    height: 70vh;
+    overflow: auto;
+    /* background-color:rgb(211, 226, 231); */
+}
+
+.carouselImage {
+    width: 100%;
+    height:70vh !important;
+    object-fit:  contain !important;
+}
+
+.carousel-control-next-icon {
+    
+    color: rgb(240, 13, 13) !important;
+}
+
+.carousel-indicators li {
+    background-color: rgb(170, 28, 28);
+  }
+
+.captionText {
+    color:white;
+    margin-bottom: -.25rem;
+  }
+
